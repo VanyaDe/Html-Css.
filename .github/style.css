@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 body {
-  background-color:palegoldenrod;
+  background-color: palegoldenrod;
   text-align:center;
-  font-family:Comic Sans MS, Comic Sans, cursive;
+  font-family: 'Ubuntu', sans-serif;
 }
 img {
-  width:200px;
-  height:200px;
+  width: 200px;
+  height: 200px;
 }
